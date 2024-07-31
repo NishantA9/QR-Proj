@@ -12,7 +12,7 @@ Next, we'll install the required dependencies: npm install inquirer qr-image fs
 once everything is install, To run the project, simply execute the index.js file: node index.js or nodemon index.js (if nodemon is installed if not run this command: npm install -g nodemon
 )
 
-You will be prompted to enter a URL. After entering the URL, the script will generate a qr_img.png file with the QR code and a URL.txt file with the URL text. The QR image will be present in the directory of your project. 
+You will be prompted to enter a URL. After entering the URL, the script will generate a qr_img.png file with the QR code and a URL.txt file with the URL text. The QR image will be present in the directory of your project. Here is the live preview: https://nishanta9.github.io/QR-Proj/
 
 Made by Nishant Acharekar
 
